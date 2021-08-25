@@ -1,1 +1,3 @@
 This is the 7th file.
+New line is added again.
+Another one to complete comparisons.
