@@ -1,2 +1,2 @@
 Another new file is created.
-This line is also written for conflicts.
+This line is written for the sole purpose of conflicts.
